@@ -23,7 +23,7 @@
             <li><a href="#town-hall-tower">Town Hall Tower</a></li>
         </ul>
         <div id="sukiennice">
-            <figure><img src="https://www.inkayniperutours.com/blog/wp-content/uploads/2019/11/000598037W.webp"><figcaption>Source: wikipedia.org</figcaption></figure><div>En los Andes Peruanos son importantes los glaciares porque son fuentes de agua para diferentes actividades de la población durante la época seca ...<a href="#" target="_blank">→ más información</a></div>
+            <figure><img src="https://user-images.githubusercontent.com/23284899/190207527-ad082aff-2fef-473a-90e7-b57b0b8317bf.jpg"><figcaption>Source: wikipedia.org</figcaption></figure><div>En los Andes Peruanos son importantes los glaciares porque son fuentes de agua para diferentes actividades de la población durante la época seca ...<a href="#" target="_blank">→ más información</a></div>
         </div>
         <div id="town-hall-tower">
             <video src="https://gitlab.com/ambarja/videos/-/raw/main/test.mp4" style="height: 202px; width: 300px; margin: auto;" controls></video>
